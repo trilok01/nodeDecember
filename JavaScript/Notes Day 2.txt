@@ -1,0 +1,15 @@
+Context:
+    1. context is environment where code executes.
+    2. context refers to the caller of function.
+
+#   this keyword will give undefined in vs code or any code editor
+    because this keyword works in browser.
+
+#   Module Pattern Vs Prototype Pattern:
+    . Module Pattern consumes more memory
+    . Prototype Pattern takes less memory because it creates copy of existing
+      functional Objects as opposed to defining brand new objects.
+
+#   prototype Keyword:
+        It is used to share code by making constructor.
+        Like Classes
