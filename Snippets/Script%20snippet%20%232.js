@@ -2,7 +2,7 @@ var name = 'Trilok';
 
 setTimeout(function() {
     console.log('Timer 1');
-}, 1001);
+}, 1002);
 
 setTimeout(function() {
     console.log('Timer 2');

@@ -1,0 +1,3 @@
+While running code in vs path needs to be test/test.js
+but the same code needs path as test.js
+why?

@@ -6,11 +6,11 @@ setTimeout(function One() {
 
 setTimeout(function Two() {
     console.log("Timer 2")
-}, 6000)
+}, 5000)
 
 setTimeout(function Three() {
     console.log("Timer 3")
-}, 5000)
+}, 6000)
 
 for(i = 0; i< 10; i++) {
     console.log(i)

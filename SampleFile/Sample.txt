@@ -1,0 +1,11 @@
+1. See if "SampleFile" Folder exist or not
+2. If it exist, does it contain file "Sample.txt"
+3. If the file exits, delete the file
+4. Delete the "SampleFile" folder
+
+5. Create Folder "SampleFile"
+6. Create file "newFile.txt"
+7. Write Data to the file
+8. Do some renaming of the file
+9. Read the content of the file...
+10. Delete this file as well
